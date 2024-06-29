@@ -1,18 +1,11 @@
-## Hi there 👋, I'm Jailendra Rajawat
+# Hi there 👋, I'm Jailendra Rajawat
 
-Being a Top Rated Full Stack Developer with an experience of over 10 years as a Full Stack Web Developer, I bring a proven track record of designing, developing, and deploying robust web and mobile applications and software solutions.
+### Being a Top Rated Full Stack Developer on Upwork with an experience of over 10 years as a Full Stack Web Developer, I bring a proven track record of designing, developing, and deploying robust web and mobile applications and software solutions.
 
-<!--
-**jailendrarajawat121/jailendrarajawat121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Over 9 years of experience in full-stack development, specializing in [Skills](https://www.upwork.com/freelancers/premiumcoder).
+- 🌟 Top-rated freelancer on [Upwork](https://www.upwork.com/freelancers/premiumcoder), recognized for delivering high-quality solutions and client satisfaction.
+- 🔧 Proficient in various technologies including [Full Stack Developer](https://www.upwork.com/freelancers/premiumcoder).
+- 🚀 Passionate about building scalable applications and solving complex problems through innovative technology solutions.
+- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/jailendra-rajawat) to learn more about my professional journey and projects.
