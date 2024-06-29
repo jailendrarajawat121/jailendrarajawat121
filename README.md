@@ -1,5 +1,7 @@
 ## Hi there 👋, I'm Jailendra Rajawat
 
+Being a Top Rated Full Stack Developer with an experience of over 10 years as a Full Stack Web Developer, I bring a proven track record of designing, developing, and deploying robust web and mobile applications and software solutions.
+
 <!--
 **jailendrarajawat121/jailendrarajawat121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
