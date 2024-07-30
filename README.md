@@ -8,7 +8,7 @@
 - 👉 Top-rated freelancer on [Upwork](https://www.upwork.com/freelancers/premiumcoder), recognized for delivering high-quality solutions and client satisfaction.
 - 👉 Proficient in various technologies including [Full Stack Developer](https://www.upwork.com/freelancers/premiumcoder).
 - 👉 Passionate about building scalable applications and solving complex problems through innovative technology solutions.
-- 👉 Connect with me on [LinkedIn](https://www.linkedin.com/in/jailendra-rajawat) to learn more about my professional journey and projects.
+- 👉 Connect with me on [Upwork](https://www.upwork.com/freelancers/premiumcoder) to learn more about my professional journey and projects.
 
 ## ✅ Tech Stack
 
@@ -32,7 +32,7 @@
 
 ## ✅ Get In Touch
 
-  Please feel free to [Contact](https://www.linkedin.com/in/jailendra-rajawat) for any of your web and Mobile app Development needs.
+  Please feel free to [Contact on Upwork](https://www.upwork.com/freelancers/premiumcoder) for any of your web and Mobile app Development needs.
 
   Best quality service is my promise! 😊
 
